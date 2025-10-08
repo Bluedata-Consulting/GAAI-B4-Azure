@@ -16,6 +16,11 @@ Project-AI_Career_Companion/.env
 Project-AI_Career_Companion/backend/.env
 VectorDB_Chroma
 
+SELFLEARNING/data/
+SELFLEARNING/figures/
+SELFLEARNING/tmp/
+tredenceapp/
+
 
 # C extensions
 *.so
